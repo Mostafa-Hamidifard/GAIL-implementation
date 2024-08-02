@@ -13,4 +13,5 @@ Todo: checking what has been saved from expert data.
 adding seed and save it
 showing the data visually.
 after that, creating GAIL architecture
-
+Check this [link](https://gymnasium.farama.org/environments/box2d/car_racing/)
+ to see the chosen environment
