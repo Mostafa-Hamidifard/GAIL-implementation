@@ -9,3 +9,8 @@ There are some essential parts:
 3) testing and reporting the results
 
 Considering these steps, a proper project hierarchy is needed.
+Todo: checking what has been saved from expert data.
+adding seed and save it
+showing the data visually.
+after that, creating GAIL architecture
+
